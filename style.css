@@ -45,7 +45,7 @@ p{
   height: 1000px;
   margin: 50px auto;
   background-position: center;
-  background-position: contain;
+ /* background-size: contain; */
   background-position: no-repeat;
 }
 
